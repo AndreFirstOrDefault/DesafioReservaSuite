@@ -1,0 +1,15 @@
+D:\CsharpDotNet\DioFormacaoDotNet\Desafio02\bin\Debug\net6.0\Desafio02.exe
+D:\CsharpDotNet\DioFormacaoDotNet\Desafio02\bin\Debug\net6.0\Desafio02.deps.json
+D:\CsharpDotNet\DioFormacaoDotNet\Desafio02\bin\Debug\net6.0\Desafio02.runtimeconfig.json
+D:\CsharpDotNet\DioFormacaoDotNet\Desafio02\bin\Debug\net6.0\Desafio02.dll
+D:\CsharpDotNet\DioFormacaoDotNet\Desafio02\bin\Debug\net6.0\Desafio02.pdb
+D:\CsharpDotNet\DioFormacaoDotNet\Desafio02\obj\Debug\net6.0\Desafio02.csproj.AssemblyReference.cache
+D:\CsharpDotNet\DioFormacaoDotNet\Desafio02\obj\Debug\net6.0\Desafio02.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpDotNet\DioFormacaoDotNet\Desafio02\obj\Debug\net6.0\Desafio02.AssemblyInfoInputs.cache
+D:\CsharpDotNet\DioFormacaoDotNet\Desafio02\obj\Debug\net6.0\Desafio02.AssemblyInfo.cs
+D:\CsharpDotNet\DioFormacaoDotNet\Desafio02\obj\Debug\net6.0\Desafio02.csproj.CoreCompileInputs.cache
+D:\CsharpDotNet\DioFormacaoDotNet\Desafio02\obj\Debug\net6.0\Desafio02.dll
+D:\CsharpDotNet\DioFormacaoDotNet\Desafio02\obj\Debug\net6.0\refint\Desafio02.dll
+D:\CsharpDotNet\DioFormacaoDotNet\Desafio02\obj\Debug\net6.0\Desafio02.pdb
+D:\CsharpDotNet\DioFormacaoDotNet\Desafio02\obj\Debug\net6.0\Desafio02.genruntimeconfig.cache
+D:\CsharpDotNet\DioFormacaoDotNet\Desafio02\obj\Debug\net6.0\ref\Desafio02.dll
